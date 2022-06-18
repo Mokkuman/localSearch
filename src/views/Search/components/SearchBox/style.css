@@ -1,0 +1,19 @@
+/* .search-box{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 5em auto;
+    width: 100%;
+} */
+#search-box-tit{
+    font-size: 2em;
+    font-weight: 650;
+}
+#search-box-form{
+    margin: 1.2em auto 2em;
+    width: 100%;
+    text-align: center;
+}
+button{
+    margin: 0 1em;
+}
